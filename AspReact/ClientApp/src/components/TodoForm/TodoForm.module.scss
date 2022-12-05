@@ -1,0 +1,38 @@
+.form {
+    display: flex;
+    flex-direction: column;
+
+    &__wrapper {
+        display: flex;
+        flex-direction: row;
+        gap: 30px;
+        margin-bottom: 30px;
+    }
+
+    &__optionwrapper {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        gap: 20px;
+        height: 40px;
+    }
+    &__checkbox {
+        width: 30px;
+    }
+    &__inputwrapper {
+        display: flex;
+        flex-direction: column;
+    }
+
+    &__input {
+        width: 250px;
+        border: 5px solid black;
+        height: 40px;
+        font-size: 20px;
+    }
+
+    &__label {
+        font-size: 24px;
+        width: 150px;
+    }
+}

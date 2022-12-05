@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\TestRepos\Asp Net Project\Advenced\AspReact\TodoDomainModels\bin\Debug\netcoreapp3.1\TodoDomainModels.deps.json
+C:\Users\user\source\repos\TestRepos\Asp Net Project\Advenced\AspReact\TodoDomainModels\bin\Debug\netcoreapp3.1\TodoDomainModels.dll
+C:\Users\user\source\repos\TestRepos\Asp Net Project\Advenced\AspReact\TodoDomainModels\bin\Debug\netcoreapp3.1\TodoDomainModels.pdb
+C:\Users\user\source\repos\TestRepos\Asp Net Project\Advenced\AspReact\TodoDomainModels\obj\Debug\netcoreapp3.1\TodoDomainModels.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TestRepos\Asp Net Project\Advenced\AspReact\TodoDomainModels\obj\Debug\netcoreapp3.1\TodoDomainModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TestRepos\Asp Net Project\Advenced\AspReact\TodoDomainModels\obj\Debug\netcoreapp3.1\TodoDomainModels.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TestRepos\Asp Net Project\Advenced\AspReact\TodoDomainModels\obj\Debug\netcoreapp3.1\TodoDomainModels.AssemblyInfo.cs
+C:\Users\user\source\repos\TestRepos\Asp Net Project\Advenced\AspReact\TodoDomainModels\obj\Debug\netcoreapp3.1\TodoDomainModels.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TestRepos\Asp Net Project\Advenced\AspReact\TodoDomainModels\obj\Debug\netcoreapp3.1\TodoDomainModels.dll
+C:\Users\user\source\repos\TestRepos\Asp Net Project\Advenced\AspReact\TodoDomainModels\obj\Debug\netcoreapp3.1\TodoDomainModels.pdb

@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    align-items: center;
+    width: 1440px;
+    height: 80px;
+    background-color: black;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+    &__link {
+        color: white;
+        font-size: 36px;
+        font-weight: 700;
+    }
+}
